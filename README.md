@@ -23,12 +23,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![]('./screenshot.jpg')
+![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL](https://amazing-ritchie-b68fed.netlify.app/)
-- Live Site URL: [GitHub Repository](https://github.com/Codedzephyr/Stats-preview-card)
+- Solution URL: [Solution URL](https://elastic-beaver-5e0f4b.netlify.app/)
+- Live Site URL: [GitHub Repository](https://github.com/Codedzephyr/Profile-card-component-main)
 
 ## My process
 
@@ -40,7 +40,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-Using Padding and Margin more effectively. Learnt about blend mode with image tag
+Using Padding and Margin more effectively. using z-index and overflow correctly.
 
 ## Author
 
