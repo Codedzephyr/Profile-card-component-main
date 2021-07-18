@@ -27,8 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution URL](https://elastic-beaver-5e0f4b.netlify.app/)
-- Live Site URL: [GitHub Repository](https://github.com/Codedzephyr/Profile-card-component-main)
+- Live Site URL: [Solution URL](https://elastic-beaver-5e0f4b.netlify.app/)
+- Solution URL: [GitHub Repository](https://github.com/Codedzephyr/Profile-card-component-main)
 
 ## My process
 
